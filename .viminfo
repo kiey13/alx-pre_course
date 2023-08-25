@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1692984017,,"wq"
+|2,0,1692988104,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,28 +28,40 @@
 |3,0,32,0,1,0,1692804019,"w"
 
 # File marks:
-'0  1  31  /alx-pre_course/0x01-git/readme.md
-|4,48,1,31,1692984017,"/alx-pre_course/0x01-git/readme.md"
-'1  1  17  /alx-pre_course/0x01-git/0x01-git
-|4,49,1,17,1692981995,"/alx-pre_course/0x01-git/0x01-git"
-'2  1  17  /alx-pre_course/0x01-git/0x01-git
-|4,50,1,17,1692964058,"/alx-pre_course/0x01-git/0x01-git"
-'3  4  0  /alx-pre_course/0x01-git/README.md
-|4,51,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+'0  1  39  ~/0x01-git/README.md
+|4,48,1,39,1692988104,"~/0x01-git/README.md"
+'1  1  17  /alx-pre_course/README.md
+|4,49,1,17,1692987828,"/alx-pre_course/README.md"
+'2  1  31  /alx-pre_course/0x01-git/readme.md
+|4,50,1,31,1692984017,"/alx-pre_course/0x01-git/readme.md"
+'3  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,51,1,17,1692981995,"/alx-pre_course/0x01-git/0x01-git"
 '4  1  17  /alx-pre_course/0x01-git/0x01-git
-|4,52,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
-'5  1  17  /alx-pre_course/0x01-git/0x01-git
-|4,53,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
-'6  1  17  ~/0x01-git/0x01-git
-|4,54,1,17,1692958499,"~/0x01-git/0x01-git"
-'7  1  19  ~/alx-pre_course/README.md
-|4,55,1,19,1692916017,"~/alx-pre_course/README.md"
-'8  1  0  ~/README.md
-|4,56,1,0,1692915720,"~/README.md"
-'9  1  19  /alx-pre_course/README.MD
-|4,57,1,19,1692915663,"/alx-pre_course/README.MD"
+|4,52,1,17,1692964058,"/alx-pre_course/0x01-git/0x01-git"
+'5  4  0  /alx-pre_course/0x01-git/README.md
+|4,53,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+'6  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,54,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
+'7  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,55,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
+'8  1  17  ~/0x01-git/0x01-git
+|4,56,1,17,1692958499,"~/0x01-git/0x01-git"
+'9  1  19  ~/alx-pre_course/README.md
+|4,57,1,19,1692916017,"~/alx-pre_course/README.md"
 
 # Jumplist (newest first):
+-'  1  39  ~/0x01-git/README.md
+|4,39,1,39,1692988104,"~/0x01-git/README.md"
+-'  1  17  /alx-pre_course/README.md
+|4,39,1,17,1692987828,"/alx-pre_course/README.md"
+-'  1  17  /alx-pre_course/README.md
+|4,39,1,17,1692987828,"/alx-pre_course/README.md"
+-'  1  31  /alx-pre_course/0x01-git/readme.md
+|4,39,1,31,1692984017,"/alx-pre_course/0x01-git/readme.md"
+-'  1  31  /alx-pre_course/0x01-git/readme.md
+|4,39,1,31,1692984017,"/alx-pre_course/0x01-git/readme.md"
+-'  1  31  /alx-pre_course/0x01-git/readme.md
+|4,39,1,31,1692984017,"/alx-pre_course/0x01-git/readme.md"
 -'  1  31  /alx-pre_course/0x01-git/readme.md
 |4,39,1,31,1692984017,"/alx-pre_course/0x01-git/readme.md"
 -'  1  17  /alx-pre_course/0x01-git/0x01-git
@@ -57,9 +69,33 @@
 -'  1  17  /alx-pre_course/0x01-git/0x01-git
 |4,39,1,17,1692981995,"/alx-pre_course/0x01-git/0x01-git"
 -'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692981995,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692981995,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692981995,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692981995,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692981995,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692981995,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692964058,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
 |4,39,1,17,1692964058,"/alx-pre_course/0x01-git/0x01-git"
 -'  1  17  /alx-pre_course/0x01-git/0x01-git
 |4,39,1,17,1692964058,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692964058,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692964058,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692964058,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692964058,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692964058,"/alx-pre_course/0x01-git/0x01-git"
 -'  4  0  /alx-pre_course/0x01-git/README.md
 |4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
 -'  4  0  /alx-pre_course/0x01-git/README.md
@@ -76,6 +112,102 @@
 |4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
 -'  4  0  /alx-pre_course/0x01-git/README.md
 |4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  4  0  /alx-pre_course/0x01-git/README.md
+|4,39,4,0,1692962311,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
+-'  1  0  /alx-pre_course/0x01-git/README.md
+|4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
 -'  1  0  /alx-pre_course/0x01-git/README.md
 |4,39,1,0,1692962221,"/alx-pre_course/0x01-git/README.md"
 -'  1  0  /alx-pre_course/0x01-git/README.md
@@ -100,158 +232,40 @@
 |4,39,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
 -'  1  17  /alx-pre_course/0x01-git/0x01-git
 |4,39,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  17  ~/0x01-git/0x01-git
-|4,39,1,17,1692958499,"~/0x01-git/0x01-git"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
--'  1  19  ~/alx-pre_course/README.md
-|4,39,1,19,1692916017,"~/alx-pre_course/README.md"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
+-'  1  17  /alx-pre_course/0x01-git/0x01-git
+|4,39,1,17,1692959404,"/alx-pre_course/0x01-git/0x01-git"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x01-git/README.md
+	*	1692988102	0
+	"	1	39
+	^	1	40
+	.	1	39
+	+	1	39
+
+> /alx-pre_course/README.md
+	*	1692987825	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
 
 > /alx-pre_course/0x01-git/readme.md
 	*	1692984014	0
